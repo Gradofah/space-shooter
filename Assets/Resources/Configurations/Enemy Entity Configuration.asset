@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ed906bd568740739481674af3b603c2, type: 3}
+  m_Name: Enemy Entity Configuration
+  m_EditorClassIdentifier: 
+  _strongSpeed: 3
+  _strongHealth: 20
+  _strongEnemySprite: {fileID: 21300000, guid: 8b7ee6d65817ec54498f08b86cdeda02, type: 3}
+  _strongSize: {x: 1.5, y: 1.5, z: 1.5}
+  _fastSpeed: 5
+  _fastHealth: 10
+  _fastEnemySprite: {fileID: 21300000, guid: c355f08a4ef2e5b48884f96d2adb46a6, type: 3}
+  _fastSize: {x: 1, y: 1, z: 1}
